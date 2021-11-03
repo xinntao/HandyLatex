@@ -6,7 +6,9 @@ Collections of Beautiful Latex Snippets
 
 :point_right: **Succinct table with bold separation line and gray text**
 
-<center><img src="imgs/table4_mocov3.png" alt="table4_mocov3" width="600"/></center>
+<p align="center">
+    <img src="imgs/table4_mocov3.png" alt="table4_mocov3" width="600"/>
+</p>
 
 ```latex
 %################## Dependencies ##################
@@ -40,6 +42,6 @@ Collections of Beautiful Latex Snippets
 %##################################################################################################
 ```
 
-Source: Table 4 from [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057) Table 4
+Source: Table 4 from [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057)
 
 ## Pseudocode
